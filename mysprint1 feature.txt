@@ -8,3 +8,5 @@ changes related to sprint2 stories
 new features of sprint2
 
 applying some logging mechanism to get issues in logging for future
+
+some changes in sprint2
