@@ -1,2 +1,6 @@
 this is my initial project code
 it contains some lines of features that are very usable
+
+this is another set of changes in my initial task
+more changes
+more changes
