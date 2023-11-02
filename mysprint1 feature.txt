@@ -1,5 +1,7 @@
 this is my feature that is included in sprint1
-it is very exciting
+it is not very exciting
 it has lots of code in it
 
 new set of changes in sprint1
+
+applying some logging mechanism to get issues in logging for future
