@@ -6,3 +6,4 @@ more changes
 more changes
 
 some changes of sprint1
+some bug fixes part of sprint1
