@@ -1,8 +1,10 @@
 this is my feature that is included in sprint1
-it is very exciting | a bug fix on sprint1, getting fixed in sprint2
+it is not very exciting | a bug fix on sprint1, getting fixed in sprint2
 it has lots of code in it
 
 new set of changes in sprint1
 
 changes related to sprint2 stories
 new features of sprint2
+
+applying some logging mechanism to get issues in logging for future
