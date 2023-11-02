@@ -1,4 +1,5 @@
 another supposed hotfix in sprint1
+third hotfix in sprint1
 
 this is my feature that is included in sprint1
 it is not very exciting | a bug fix on sprint1, getting fixed in sprint2
